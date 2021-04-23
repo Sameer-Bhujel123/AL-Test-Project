@@ -45,6 +45,10 @@ page 50503 "Job Planning API"
                 {
                     ApplicationArea = all;
                 }
+                field(type; Rec.Type)
+                {
+                    ApplicationArea = all;
+                }
             }
         }
 
