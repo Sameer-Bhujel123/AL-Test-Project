@@ -1,0 +1,26 @@
+{
+  "id": "58ed7f16-10cf-454a-8370-4b2c64dcc7b7",
+  "name": "Job API",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50500,
+      "to": 50599
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://JobAPI.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
